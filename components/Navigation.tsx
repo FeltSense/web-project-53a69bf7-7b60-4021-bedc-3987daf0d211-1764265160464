@@ -9,9 +9,7 @@ export default function Navigation() {
   const navLinks = [
     { name: 'Services', href: '#services' },
     { name: 'Pricing', href: '#pricing' },
-    { name: 'Contact', href: '#contact' },
-
-  
+    { name: 'Contact', href: '#contact' }
   ];
 
   return (
